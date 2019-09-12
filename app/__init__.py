@@ -11,7 +11,6 @@ login_manager.login_view = 'auth.login'
 
 bootstrap = Bootstrap()
 db = SQLAlchemy()
-
 # Setting up configuration
 
 # Initializing Flask Extensions
